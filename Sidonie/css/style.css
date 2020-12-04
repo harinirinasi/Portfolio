@@ -1,0 +1,19 @@
+body
+{
+    background-color:wait;
+}
+h1
+{
+	text-align: center;
+	color:green;
+}
+#img
+{
+	width: 350px;
+	height:350px;
+}
+#titre
+{
+	color:black;
+	text-decoration:underline;
+}
